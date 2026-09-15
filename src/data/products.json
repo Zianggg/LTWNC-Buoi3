@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Bút bi Thiên Long TL-027",
+    "price": 5000,
+    "description": "Bút bi mực xanh, thân trong, viết êm cho ghi chép trên lớp.",
+    "category": "Bút viết",
+    "image": "https://picsum.photos/seed/but-bi/400/400"
+  },
+  {
+    "id": 2,
+    "title": "Vở Campus A4 200 trang",
+    "price": 28000,
+    "description": "Giấy chống lem, kẻ ngang, phù hợp ghi chép lý thuyết.",
+    "category": "Vở",
+    "image": "https://picsum.photos/seed/vo-campus/400/400"
+  },
+  {
+    "id": 3,
+    "title": "Thước kẻ 30cm",
+    "price": 8000,
+    "description": "Thước nhựa trong suốt, có cả cm và inch.",
+    "category": "Dụng cụ",
+    "image": "https://picsum.photos/seed/thuoc-ke/400/400"
+  },
+  {
+    "id": 4,
+    "title": "Bút highlight Stabilo",
+    "price": 18000,
+    "description": "Mực dạ quang, không lem khi photocopy.",
+    "category": "Bút viết",
+    "image": "https://picsum.photos/seed/highlight/400/400"
+  },
+  {
+    "id": 5,
+    "title": "Giấy A4 Double A 500 tờ",
+    "price": 95000,
+    "description": "Giấy 70gsm, in đề cương và báo cáo đồ án.",
+    "category": "Giấy",
+    "image": "https://picsum.photos/seed/giay-a4/400/400"
+  },
+  {
+    "id": 6,
+    "title": "Balo sinh viên 20L",
+    "price": 259000,
+    "description": "Ngăn laptop 15.6 inch, chống thấm nhẹ.",
+    "category": "Balo",
+    "image": "https://picsum.photos/seed/balo/400/400"
+  },
+  {
+    "id": 7,
+    "title": "Tai nghe có dây",
+    "price": 89000,
+    "description": "Jack 3.5mm, micro đàm thoại khi học online.",
+    "category": "Điện tử",
+    "image": "https://picsum.photos/seed/tai-nghe/400/400"
+  },
+  {
+    "id": 8,
+    "title": "Bình nước giữ nhiệt 500ml",
+    "price": 129000,
+    "description": "Giữ nóng/lạnh khoảng 8 giờ, miệng rộng dễ rửa.",
+    "category": "Sinh hoạt",
+    "image": "https://picsum.photos/seed/binh-nuoc/400/400"
+  },
+  {
+    "id": 9,
+    "title": "Sổ tay bìa da A5",
+    "price": 65000,
+    "description": "Giấy kem, đánh số trang, dùng làm nhật ký đồ án.",
+    "category": "Sổ tay",
+    "image": "https://picsum.photos/seed/so-tay/400/400"
+  },
+  {
+    "id": 10,
+    "title": "USB 32GB",
+    "price": 119000,
+    "description": "USB 3.0, nộp bài và backup source code.",
+    "category": "Điện tử",
+    "image": "https://picsum.photos/seed/usb-32gb/400/400"
+  },
+  {
+    "id": 11,
+    "title": "Chuột không dây",
+    "price": 159000,
+    "description": "Kết nối USB receiver, pin AA, phù hợp làm bài lâu.",
+    "category": "Điện tử",
+    "image": "https://picsum.photos/seed/chuot/400/400"
+  },
+  {
+    "id": 12,
+    "title": "Bàn phím cơ mini",
+    "price": 790000,
+    "description": "Layout 75%, switch tactile, gõ êm cho code.",
+    "category": "Điện tử",
+    "image": "https://picsum.photos/seed/ban-phim/400/400"
+  }
+]
